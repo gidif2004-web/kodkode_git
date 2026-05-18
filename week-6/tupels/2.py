@@ -4,4 +4,3 @@ def tuple_max(numbers):
         if number > maximum:
             maximum = number
     return maximum
-print(tuple_max((1,2,3,5,7,4,5)))

@@ -10,4 +10,3 @@ def frequency_table(tp):
             final_tp += ((item, counter),)
             checked_list += item
     return final_tp
-print(frequency_table(('a', 'b', 'a', 'c', 'b', 'a')))

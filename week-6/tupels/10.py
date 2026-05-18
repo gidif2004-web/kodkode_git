@@ -4,4 +4,3 @@ def rotate_tuple(tp, k):
         val = lst.pop()
         lst.insert(0, val)
     return tuple(lst)
-print(rotate_tuple((1,2,3,4,5,6),7))

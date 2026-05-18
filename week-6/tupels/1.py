@@ -3,4 +3,3 @@ def tuple_sum(numbers):
     for number in numbers:
         sum += number
     return sum
-print(tuple_sum((1,2,7)))
